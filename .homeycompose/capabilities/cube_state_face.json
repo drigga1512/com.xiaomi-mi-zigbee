@@ -4,7 +4,7 @@
   "icon": "/drivers/cube/assets/icon_face.svg",
   "title": {
     "en": "Face up",
-    "nl": "Zijde boven"
+    "nl": "Zijde boven",
     "de": "Oberseite"
   },
   "getable": true,
