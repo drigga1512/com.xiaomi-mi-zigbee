@@ -2,7 +2,7 @@
   "name": {
     "en": "Aqara Wall Switch Single (LN)",
     "nl": "Aqara Wall Switch Single (LN)",
-    "de": "Aqara Wall Switch Single (LN)"
+    "de": "Aqara Wandschalter Single (LN)"
   },
   "class": "socket",
   "capabilities": [
