@@ -4,11 +4,13 @@
   "icon": "/assets/capabilities/alarm_vibration.svg",
   "title": {
     "en": "Vibration Alarm",
-    "nl": "Trillingsalarm"
+    "nl": "Trillingsalarm",
+    "de": "Vibrationsalarm"
   },
   "desc": {
     "en": "Detected vibration",
-    "nl": "Gedetecteerde trilling"
+    "nl": "Gedetecteerde trilling",
+    "de": "Vibration erkannt"
   },
   "getable": true,
   "setable": false,
@@ -16,9 +18,11 @@
   "insightsTitleTrue": {
     "en": "Vibration alarm turned on",
     "nl": "Trillings alarm ging af"
+    "de": "Vibrationsalarm an"
   },
   "insightsTitleFalse": {
     "en": "Vibration alarm turned off",
-    "nl": "Trillings alarm ging uit"
+    "nl": "Trillings alarm ging uit",
+    "de": "Vibrationsalarm aus"
   }
 }
