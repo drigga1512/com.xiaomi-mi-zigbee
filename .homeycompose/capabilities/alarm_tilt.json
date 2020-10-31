@@ -18,11 +18,11 @@
   "insightsTitleTrue": {
     "en": "Tilt alarm turned on",
     "nl": "Kantel alarm ging af",
-    "de": "Neigungsalarm an"
+    "de": "Neigungsalarm wurde ausgelöst"
   },
   "insightsTitleFalse": {
     "en": "Tilt alarm turned off",
     "nl": "Kantel alarm ging uit",
-    "de": "Neigungsalarm aus"
+    "de": "Neigungsalarm wurde ausgeschaltet"
   }
 }
