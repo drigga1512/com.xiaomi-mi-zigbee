@@ -18,11 +18,11 @@
   "insightsTitleTrue": {
     "en": "Drop alarm turned on",
     "nl": "Val alarm ging af",
-    "de": "Sturzalarm an"
+    "de": "Sturzalarm wurde ausgelöst"
   },
   "insightsTitleFalse": {
     "en": "Drop alarm turned off",
     "nl": "Val alarm ging uit",
-    "de": "Sturzalarm aus"
+    "de": "Sturzalarm wurde ausgeschaltet"
   }
 }
