@@ -17,12 +17,12 @@
   "insights": true,
   "insightsTitleTrue": {
     "en": "Vibration alarm turned on",
-    "nl": "Trillings alarm ging af"
-    "de": "Vibrationsalarm an"
+    "nl": "Trillings alarm ging af",
+    "de": "Vibrationsalarm wurde ausgelöst"
   },
   "insightsTitleFalse": {
     "en": "Vibration alarm turned off",
     "nl": "Trillings alarm ging uit",
-    "de": "Vibrationsalarm aus"
+    "de": "Vibrationsalarm wurde ausgeschaltet"
   }
 }
