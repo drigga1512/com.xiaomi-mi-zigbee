@@ -23,7 +23,7 @@
     "type": "radio",
     "label": {
       "en": "Temperature reporting",
-      "de": "Temperaturmeldung"
+      "de": "Temperaturanzeige"
     },
     "value": "1",
     "values": [
@@ -72,7 +72,7 @@
     "type": "radio",
     "label": {
       "en": "Humidity reporting",
-      "de": "Luftfeuchtigkeitsmeldung"
+      "de": "Luftfeuchtigkeitsanzeige"
     },
     "value": "1",
     "values": [
