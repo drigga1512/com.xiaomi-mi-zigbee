@@ -18,11 +18,11 @@
   "insightsTitleTrue": {
     "en": "Gas alarm turned on",
     "nl": "Gas alarm ging af",
-    "de": "Gasalarm an"
+    "de": "Gasalarm wurde ausgelöst"
   },
   "insightsTitleFalse": {
     "en": "Gas alarm turned off",
     "nl": "Gas alarm ging uit",
-    "de": "Gasalarm aus"
+    "de": "Gasalarm wurde ausgeschaltet"
   }
 }
