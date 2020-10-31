@@ -4,7 +4,8 @@
     "type": "number",
     "label": {
       "en": "Temperature offset (°C)",
-      "nl": "Temperatuur compensatie (°C)"
+      "nl": "Temperatuur compensatie (°C)",
+      "de": "Temperatur Offset (°C)"
     },
     "hint": {
       "en": "Set a correction to compensate a temperature offset.\nRange: -10 - 10, step size 0.1, \ndefault: 0 [°C]",
