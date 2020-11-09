@@ -6,8 +6,7 @@
   },
   "description": {
     "en": "A different kind of Smart Home solution",
-    "nl": "Een ander soort oplossing voor slimme huizen",
-    "de": "Eine Smart Home Lösung der besonderen Art"
+    "nl": "Een ander soort oplossing voor slimme huizen"
   },
   "category": [
     "lights"
@@ -86,8 +85,7 @@
               "de": "Szene"
             },
             "example": {
-              "en": "Button pressed (test)",
-              "de": "Schalter gedrückt (Test)"
+              "en": "Button pressed (test)"
             }
           }
         ]
@@ -101,8 +99,7 @@
         },
         "hint": {
           "en": "This card will trigger on any button pressed and provides the scene tokens.",
-          "nl": "Deze kaart wordt geactiveerd bij iedere knop die ingedrukt wordt en biedt de scene tokens aan.",
-          "de": "Diese Karte wird mit jedem gedrückten Schalter aktiviert und liefert den Szene Token."
+          "nl": "Deze kaart wordt geactiveerd bij iedere knop die ingedrukt wordt en biedt de scene tokens aan."
         },
         "args": [
           {
@@ -133,8 +130,7 @@
               "de": "Szene"
             },
             "example": {
-              "en": "Button pressed (test)",
-              "de": "Schalter gedrückt (Test)"
+              "en": "Button pressed (test)"
             }
           }
         ]
