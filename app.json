@@ -99,7 +99,8 @@
         },
         "hint": {
           "en": "This card will trigger on any button pressed and provides the scene tokens.",
-          "nl": "Deze kaart wordt geactiveerd bij iedere knop die ingedrukt wordt en biedt de scene tokens aan."
+          "nl": "Deze kaart wordt geactiveerd bij iedere knop die ingedrukt wordt en biedt de scene tokens aan.",
+          "de": "Diese Karte wird mit jeder gedrücktem Schalter aktiviert und liefert den scene token."
         },
         "args": [
           {
