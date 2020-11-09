@@ -10,7 +10,7 @@
     "hint": {
       "en": "This setting will disable the motion alarm after the given time (in seconds) has expired after the last motion has been detected. Every time motion is observed by the device it will reset this timeout.\nRange: 60 - 86400, default: 300 [s]",
       "nl": "Deze instelling zal het bewegingsalarm uitschakelen na de tijd (in seconden), na de laatste beweging gedetecteerd is, is verstreken. Elke keer dat opnieuw beweging wordt gedetecteerd wordt deze timer herstart.\nBereik: 60 - 86400, Standaard: 300 [s]",
-      "de": "Diese Einstellung setzt den Bewegungsalarm nach einer gewissen Zeit (in Sekunden) zurück. Jedes mal, wenn eine Bewegung erkannt wird, wird dieser Timer zurückgesetzt.\nEinstellungsbereich: 60 - 86400, Standardeinstellung: 300 [s]"
+      "de": "Diese Einstellung setzt den Bewegungsalarm nach einer gewissen Zeit (in Sekunden) zurück. Jedes Mal, wenn eine Bewegung erkannt wird, wird dieser Timer zurückgesetzt.\nEinstellungsbereich: 60 - 86400, Standardeinstellung: 300 [s]"
     },
     "value": 300,
     "attr": {
