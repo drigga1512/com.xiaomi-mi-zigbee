@@ -36,7 +36,7 @@
       "instruction": {
         "en": "Long press the reset button for more than 5 seconds until the blue light flashes three times",
         "nl": "Houd de reset knop ingedrukt voor meer dan 5 seconden totdat de blauwe led drie keer knippert",
-        "de": "Halte den Reset Knopf mehr als 3 Sekunden lang gedrückt bis das blaue Licht 3 mal blinkt"
+        "de": "Halte den Reset Knopf mehr als 3 Sekunden lang gedrückt bis das blaue Licht 3 Mal blinkt"
       }
     }
   },
@@ -56,7 +56,7 @@
       "hint": {
         "en": "This setting will disable the motion alarm after the given time (in seconds) has expired. Every time motion is observed by the device it will reset this timeout.\nRange: 60 - 86400, default: 300 [s]",
         "nl": "Deze instelling zal het bewegingsalarm uitschakelen na de tijd (in seconden) is verstreken. Elke keer dat opnieuw beweging wordt gedetecteerd wordt deze timer herstart.\nBereik: 60 - 86400, Standaard: 300 [s]",
-        "de": "Diese Einstellung setzt den Bewegungsalarm nach einer gewissen Zeit (in Sekunden) zurück. Jedes mal, wenn eine Bewegung erkannt wird, wird dieser Timer zurückgesetzt.\nEinstellungsbereich: 60 - 86400, Standardeinstellung: 300 [s]"
+        "de": "Diese Einstellung setzt den Bewegungsalarm nach einer gewissen Zeit (in Sekunden) zurück. Jedes Mal, wenn eine Bewegung erkannt wird, wird dieser Timer zurückgesetzt.\nEinstellungsbereich: 60 - 86400, Standardeinstellung: 300 [s]"
       },
       "value": 300,
       "attr": {
